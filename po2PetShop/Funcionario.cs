@@ -18,4 +18,5 @@ public class Funcionario
     public double salario;
     public string funcao;
 
+    
 }
